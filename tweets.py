@@ -4,10 +4,10 @@ from textblob import TextBlob
 import time,re,sys
 
 #Consumer Key,Consumer Secret,Access Token,Access Secret
-ckey="yLgqgy1LkPeFn0PuTTvEIQUjx"
-csecret="TkAjNoo4xtv0d2N5JK9JrDbuXRXkY8FCgPbGLByfSwGjHbfZow"
-atoken="4357099632-OY13X4oLoJKVIvywUWOBBJ1MDTMqQkAenERshZG"
-asecret="aWnDL2rbXqVWkGn74IEJGCY7X7QXQzlGdfXEuX5DCNtIG"
+ckey=''
+csecret=''
+atoken=''
+asecret=''
 
 pos = neg = neu = count = 0
 startTime = time.time()
